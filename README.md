@@ -1,4 +1,3 @@
-Creating a README file for a Tetris game project involves providing essential information about the project, its setup, usage instructions, and any additional details that might be useful for someone reviewing or contributing to the project. Here’s a template for a README file tailored for a Tetris game implemented in JavaFX:
 Tetris Game
 
 Description
